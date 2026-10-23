@@ -1,6 +1,6 @@
 # Titre de l'escape game
 
-Projet conçu en équipe avec : [prénoms des coéquipiers]
+Projet conçu en équipe avec : Vencia Bozieux
 
 ## Le public cible
 
